@@ -3,7 +3,7 @@
 
 ## 目录
 
-[markdown写作指南](docs/markdown-style.md)
+[Markdown写作指南](docs/markdown-style.md)
 
 ## License
 
